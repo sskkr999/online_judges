@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background: #4AC29A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.head
+{
+	font-family:'Trebuchet MS';
+	font-size:50px;
+	font-weight:bold;
+	color:rgba(0,0,0,1.00);
+}
+.Subhead
+{
+	font-family:'Trebuchet MS';
+	font-size:30px;
+	color:rgba(0,0,0,1.00);
+}
+
+input
+{
+	border:2px solid #369C7A;
+	font-family:'Trebuchet MS';
+	font-size:18px;
+	color: #4AC29A;
+	padding:5px;
+}
+	
